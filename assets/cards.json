@@ -1,0 +1,29 @@
+[
+  {
+    "cardImage": "/assets/collab_archie_ideias_diferentes.webp",
+    "collabText": "Ricardo Fontenele",
+    "title": "PRODUÇÃO DE PRATELEIRA",
+    "linkName": "EU QUERO",
+    "link": "/ideias-diferentes",
+    "collabTextSize":"2.5rem",
+    "soon":false
+  },
+  {
+    "cardImage": "/assets/thais-collab.png",
+    "collabText": "Thaís Salomão",
+    "title": "MESA POSTA",
+    "linkName": "EU QUERO",
+    "link": "/mesa-posta",
+    "collabTextSize":"2.5rem",
+    "soon":true
+  },
+  {
+    "cardImage": "/assets/natal.png",
+    "collabText": "Rosária Cunha",
+    "title": "NATAL",
+    "linkName": "EU QUERO",
+    "link": "/natal",
+    "collabTextSize":"2.5rem",
+    "soon":true
+  }
+]
