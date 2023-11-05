@@ -13,7 +13,7 @@
     "collabText": "Thaís Salomão",
     "title": "MESA POSTA",
     "linkName": "EU QUERO",
-    "link": "/mesa-posta",
+    "link": "#",
     "collabTextSize":"2.5rem",
     "soon":true
   },
@@ -22,7 +22,7 @@
     "collabText": "Rosária Cunha",
     "title": "NATAL",
     "linkName": "EU QUERO",
-    "link": "/natal",
+    "link": "#",
     "collabTextSize":"2.5rem",
     "soon":true
   }
