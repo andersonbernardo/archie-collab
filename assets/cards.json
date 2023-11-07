@@ -5,7 +5,6 @@
     "title": "PRODUÇÃO DE PRATELEIRA",
     "linkName": "EU QUERO",
     "link": "/ideias-diferentes",
-    "collabTextSize":"2.5rem",
     "soon":false
   },
   {
@@ -14,7 +13,6 @@
     "title": "MESA POSTA",
     "linkName": "EU QUERO",
     "link": "#",
-    "collabTextSize":"2.5rem",
     "soon":true
   },
   {
@@ -23,7 +21,6 @@
     "title": "NATAL",
     "linkName": "EU QUERO",
     "link": "#",
-    "collabTextSize":"2.5rem",
     "soon":true
   }
 ]
