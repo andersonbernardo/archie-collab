@@ -12,15 +12,7 @@
     "collabText": "Thaís Salomão",
     "title": "MESA POSTA",
     "linkName": "EU QUERO",
-    "link": "/mesa-posta",
-    "soon":false
-  },
-  {
-    "cardImage": "/assets/natal.png",
-    "collabText": "Rosária Cunha",
-    "title": "NATAL",
-    "linkName": "EU QUERO",
-    "link": "/natal",
-    "soon":false
+    "link": "#",
+    "soon":true
   }
 ]
